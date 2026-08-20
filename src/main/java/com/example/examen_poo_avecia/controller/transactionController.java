@@ -1,3 +1,5 @@
+package com.example.examen_poo_avecia.controller;
+
 import com.example.examen_poo_avecia.model.transaction;
 import com.example.examen_poo_avecia.model.transactionType;
 import com.example.examen_poo_avecia.service.transactionService;
